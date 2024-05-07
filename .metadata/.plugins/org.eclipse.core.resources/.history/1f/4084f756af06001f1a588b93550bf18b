@@ -1,0 +1,12 @@
+package com.kh.test.Main;
+
+public class Test4 {
+
+	public static void main(String[] args) {
+		/*
+		1 부터 9 까지 ㄱ밧을 스캐너로 각각 입력받아
+		더하기 빼기 곱하기 몫 출력하기
+		 */
+	}
+	
+}

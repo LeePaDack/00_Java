@@ -1,0 +1,30 @@
+package sup3.sample;
+
+public class LogicSample {
+	private int age;
+	private String name;
+	private String gender;
+	private String phone;
+	public LogicSample(int age, String name, String gender, String phone) {
+		this.age = age;
+		this.name = name;
+		this.gender = gender;
+		this.phone = phone;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

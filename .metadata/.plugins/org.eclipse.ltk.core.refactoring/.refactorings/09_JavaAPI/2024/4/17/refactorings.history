@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kh.javaAPIEx.SpringEx.java&apos; to &apos;StringEx.java&apos;&#x0D;&#x0A;- Original project: &apos;09_JavaAPI&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.javaAPIEx.SpringEx.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.javaAPIEx.StringEx.java&apos;" description="Rename compilation unit &apos;SpringEx.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kh.javaAPIEx{SpringEx.java" name="StringEx.java" references="false" stamp="1713831887908" version="1.0"/>
+</session>

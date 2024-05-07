@@ -1,0 +1,38 @@
+package com.kh.test.Main;
+
+import java.util.Scanner;
+
+public class Test3 {
+	
+	public static void main(String[] args) {
+		// while 문을 사용해서 switch 문 계속 숫자 작성하게 만들어주고
+		// case 3: 종료 만들어주기
+		
+		
+		// switch 문 실행해보기
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("숫자 작성 : ");
+		int date = sc.nextInt();
+		String hw;
+		
+		switch(date) {
+		case 1:
+			hw = "월요일 : 업무";
+			break;
+		case 2:
+			hw = "화요일 : 공부";
+			break;
+		case 3:
+			System.out.println("종료");
+			return
+		default :
+			hw = "휴식";
+			break;
+		}
+		
+		System.out.println("일정 : " + hw);
+		
+	}
+	
+}

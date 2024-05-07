@@ -1,0 +1,11 @@
+package com.kh.IteratorEx;
+/*
+Enumeration : 더이상 권장 X  Vector 와 같은 오래된 버전 클래스에서만 사용됨
+
+Iterator
+
+ListIterator
+ */
+public class IteratorEx {
+
+}

@@ -1,0 +1,8 @@
+package com.kh.imageEx;
+
+public class ImageResizePre {
+	// 원본이미지 pigs.jpg      pigs_cute.jpg 가로 = 400 세로 = 200
+	
+	
+	
+}

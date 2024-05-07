@@ -1,0 +1,41 @@
+package com.kh.variable.pre;
+
+public class EnumPre {
+// enum 무지개 {빨 ~ 보};
+	public enum 무지개{ // 일렬로 적어도 됨
+		빨,
+		주,
+		노,
+		초,
+		파,
+		남,
+		보
+	}
+	
+	public static void main(String[] args) {
+		// main
+		// 빨 ~ 보 출력
+		
+		System.out.println("무지개 : " + 무지개.빨);
+		System.out.println("무지개 : " + 무지개.주);
+		System.out.println("무지개 : " + 무지개.노);
+		System.out.println("무지개 : " + 무지개.초);
+		System.out.println("무지개 : " + 무지개.파);
+		System.out.println("무지개 : " + 무지개.남);
+		System.out.println("무지개 : " + 무지개.보);
+		
+		// 장바구니 = 배열에 담기
+		//                enum 밑에 있는 메서드
+		무지개[] 배열 = 무지개.values(); // enum 으로 작성한 값을 가져옴
+		System.out.println();
+		
+		// for each 로 넣을 수 있음
+		for (무지개 무 : 배열) {
+			System.out.println("무지개 : " + 무);
+		}
+		
+	}
+
+	
+	
+}

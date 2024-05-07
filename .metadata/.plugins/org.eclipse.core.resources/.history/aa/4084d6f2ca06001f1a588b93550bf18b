@@ -1,0 +1,33 @@
+package ncs.test10;
+
+public class BookUpdate {
+// 필드
+	private Book 책정보;
+
+
+
+
+
+// 메서드
+	// setter
+	public void set책정보(Book 책정보) {
+		this.책정보 = 책정보;
+	}
+	// getter
+	public Book get책정보() {
+		return 책정보;
+	}
+	
+	// 생성자 기본
+	public BookUpdate() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+}

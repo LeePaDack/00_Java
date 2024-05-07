@@ -1,0 +1,21 @@
+package com.kh.propertiesEx;
+/*
+Properties = 속성, 설정, 필히 넣어야하는 값을 작성
+
+	Map 이랑 비슷한 형태의 데이터를 관리하는데 사용
+
+	key 와 value 으로 이루어져 있음
+
+	키와 값이 숫자가 아니라 문자열 인 형태로 가지고 있음
+
+메서드
+	setProperty(String key, String value) : 지정된 키와 값으로 맵에 항목을 추가
+	getProperty(String key) : 주어진 키에 대한 값을 반환
+
+
+
+
+ */
+public class PropertiesEx {
+
+}

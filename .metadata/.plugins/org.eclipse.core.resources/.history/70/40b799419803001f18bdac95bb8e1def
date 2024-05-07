@@ -1,0 +1,11 @@
+package com.kh.SetEx;
+
+public class TreeSetPre {
+// 과일들 String "키위 복숭아 참외 수박 딸기"
+	
+	// 복숭아 제거 
+	
+	// 수박이 포함되어 있는지 확인
+	
+	// 
+}

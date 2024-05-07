@@ -1,0 +1,9 @@
+package com.kh.test.Main;
+
+public class Test8 {
+
+	public static void main(String[] args) {
+		// 삼항연산자 익히기
+	}
+	
+}

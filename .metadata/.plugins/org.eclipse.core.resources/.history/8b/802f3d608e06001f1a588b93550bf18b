@@ -1,0 +1,11 @@
+package com.kh.methodEx;
+/*
+메서드(method)
+	특정 행동이나 작업을 진행하는 코드 블록 {}
+	
+	// Setter
+	// Getter
+ */
+public class MethodEx {
+
+}

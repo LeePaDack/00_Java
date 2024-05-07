@@ -1,0 +1,9 @@
+package com.kh.MapEx;
+/*
+Map : 특정 키를 입력하면 해당되는 값을 얻을 수 있는 Collection 객체
+
+
+ */
+public class MapEx {
+
+}

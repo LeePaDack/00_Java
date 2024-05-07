@@ -1,0 +1,13 @@
+package com.kh.variable.ex;
+/*
+Enum(열거형)
+늘어서 작성해놓은 것을 행함
+
+
+
+
+
+ */
+public class EnumEx {
+
+}

@@ -1,0 +1,36 @@
+package com.kh.imageEx;
+
+import java.io.File;
+
+public class ImagePR2 {
+	/*
+	바탕화면에 이미지폴더 / 동물이름.txt 파일 생성후
+	소 고양이 돼지 토끼 호랑이 이름을 \n 을 사용해 만들어주고
+	동물이름을 만들어준 다음
+	좋아하는 동물 이름으로 폴더 이름 변경한 다음
+	삭제하기
+	 */
+	
+	public static void main(String[] args) {
+		File makeDirectory = new File("c:/Users/user1/Desktop/이미지폴더");
+		
+		System.out.println("바탕화면에 이미지폴더가 있습니까?");
+		if(makeDirectory.exists()) {
+			System.out.println("이미 있습니다");
+		}
+		else {
+			makeDirectory.mkdir();
+			System.out.println("폴더 만들기 성공");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}

@@ -1,0 +1,20 @@
+package com.kh.test.Main;
+
+import java.util.Calendar;
+
+public class TestDate3 {
+
+	public static void main(String[] args) {
+		int 태어난년도 = 2001;
+		int 태어난월 = 8;
+		int 태어난날짜 = 18;
+		
+		// 현재 날짜 구하기
+		Calendar
+		
+		
+		
+		
+	}
+	
+}

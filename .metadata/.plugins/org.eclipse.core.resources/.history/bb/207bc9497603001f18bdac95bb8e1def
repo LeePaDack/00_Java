@@ -1,0 +1,29 @@
+package com.kh.variable.ex;
+/*
+Enum(열거형)
+늘어서 작성해놓은 것을 행함
+
+변수명을 나열해놓은 것 상수(상시적으로 고정된 이름)
+
+ */
+public class EnumEx {
+	
+	public enum 날짜들 {
+		월요일,
+		화요일,
+		수요일,
+		목요일,
+		금요일,
+		토요일,
+		일요일
+	}
+	
+	public static void main(String[] args) {
+		// 각 요일을 출력
+		System.out.println("월요일 : " + 날짜들.월요일);
+		
+		
+		
+	}
+	
+}

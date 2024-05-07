@@ -1,0 +1,22 @@
+package com.kh.test.Main;
+
+import java.util.Scanner;
+
+public class Test3 {
+	
+	public static void main(String[] args) {
+		// switch 문 실행해보기
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("숫자 작성 : ");
+		int date = sc.nextInt()
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}

@@ -1,0 +1,22 @@
+package com.kh.test.Main;
+
+public class Test8 {
+
+	public static void main(String[] args) {
+		// 삼항연산자 익히기
+		
+		// 두 수 중에서 큰 수 구하기
+		
+		int num1 = 10;
+		int num2 = 20;
+		
+		String bigger = (num1 > num2) ? "num1 is bigger" : "num2 is bigger";
+		System.out.println(bigger);
+		
+		// 짝수 홀수
+		int num3 = 15;
+		String oe = (num3 % 2 == 0) ? "짝" : "홀"
+		
+	}
+	
+}

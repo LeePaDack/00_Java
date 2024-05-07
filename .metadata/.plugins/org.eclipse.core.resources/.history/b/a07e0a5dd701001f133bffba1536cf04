@@ -1,0 +1,18 @@
+package com.kh.ComparatorEx;
+// 패키지명이나 파일명 한번에 바꾸기  (F2)
+/*
+Comparator : 비교하는 객체
+메서드
+compare(변수명1, 변수명2) : 두 객체나 변수를 비교해서 정렬 순서를 결정
+	변수명1 < 변수명2 이면 음수 반환
+	변수명1 = 변수명2 이면 0을 반환
+	변수명1 > 변수명2 이면 양수 반환
+	
+reversed() : 순서를 거꾸로 뒤집어서 순서를 매길 때 사용
+	reversed : 반전
+	
+ */
+
+public class ComparatorEx {
+
+}

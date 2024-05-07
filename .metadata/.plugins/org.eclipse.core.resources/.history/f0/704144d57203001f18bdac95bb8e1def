@@ -1,0 +1,15 @@
+package com.kh.RunnablePre;
+                // implements Runnable
+public class 러너블연습 {
+// 필드
+	int 초;
+	
+// 메서드
+	// 필수 생성자
+	public 러너블연습(int 초) {
+		this.초;
+	}
+	
+	
+	
+}

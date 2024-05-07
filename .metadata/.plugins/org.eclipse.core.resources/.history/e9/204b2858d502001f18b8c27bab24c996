@@ -1,0 +1,21 @@
+package com.kh.practice.score.controller;
+
+import com.kh.practice.score.model.dao.ScoreDAO;
+
+public class ScoreController {
+
+	ScoreDAO sd = new ScoreDAO();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

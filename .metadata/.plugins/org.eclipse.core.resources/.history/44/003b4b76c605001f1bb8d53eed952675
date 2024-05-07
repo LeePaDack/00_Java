@@ -1,0 +1,9 @@
+package com.kh.addressEx;
+
+import java.net.InetAddress;
+
+public class AddressEx3 {
+	public static void main(String[] args) {
+		InetAddress 주소이름 = InetAddress.getByName("www.google.com);
+	}
+}

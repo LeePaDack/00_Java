@@ -1,0 +1,24 @@
+package com.kh.practice.book.view;
+
+public class BookMenu {
+	
+	// 기본 생성자
+	public BookMenu() {
+	}
+	
+	public void mainMenu() {
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

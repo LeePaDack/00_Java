@@ -1,0 +1,13 @@
+package com.kh.stackEx;
+/*
+Stack(스택) 
+	데이터를 저장하는 자료구조
+	LIFO : Last In - First Out
+
+
+
+
+ */
+public class StackEx {
+
+}

@@ -1,0 +1,34 @@
+package com.kh.variable.pre;
+
+public class EnumPre {
+// enum 무지개 {빨 ~ 보};
+	public enum 무지개{ // 일렬로 적어도 됨
+		빨,
+		주,
+		노,
+		초,
+		파,
+		남,
+		보
+	}
+	
+	public static void main(String[] args) {
+		// main
+		// 빨 ~ 보 출력
+		
+		System.out.println("무지개 : " + 무지개.빨);
+		System.out.println("무지개 : " + 무지개.주);
+		System.out.println("무지개 : " + 무지개.노);
+		System.out.println("무지개 : " + 무지개.초);
+		System.out.println("무지개 : " + 무지개.파);
+		System.out.println("무지개 : " + 무지개.남);
+		System.out.println("무지개 : " + 무지개.보);
+		
+		
+		
+		
+	}
+
+	
+	
+}

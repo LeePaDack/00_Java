@@ -1,0 +1,35 @@
+package com.kh.MapEx;
+
+public class TreeMapPre {
+
+	public static void main(String[] args) {
+		/*
+		tmp
+		String String 으로 
+		"apple", "사과"
+		banana    ~
+		orange    ~
+		grape   ~
+		watermelon  ~
+		
+		[] for 문을 활용해서 추가
+		 */
+		// 전체출력
+		
+		// get 사용해서 banana 에 해당하는 값 가져오기
+		
+		// size 확인
+		
+		// isEmpty 비어있는지
+		
+		// contains 존재하는지 grape
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

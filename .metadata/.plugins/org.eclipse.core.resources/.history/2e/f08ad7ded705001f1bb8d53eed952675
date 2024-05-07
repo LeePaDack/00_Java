@@ -1,0 +1,27 @@
+package com.kh.SocketEx;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+
+public class ServerPre {
+	
+	public static void main(String[] args) {
+		try {
+			ServerSocket s = new ServerSocket(12345);
+			
+			System.out.println("서버 시작");
+			
+			
+			
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+			
+		}
+		
+		
+		
+		
+	}
+	
+}

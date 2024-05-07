@@ -1,0 +1,30 @@
+package sup1.model;
+
+public class Score {
+// 필드
+	int Kor = 0;
+	int Eng = 0;
+	int Math = 0;
+	int total = 0;
+	int avg = 0;
+	
+	
+	
+	
+// 메서드
+	// 필수 생성자
+	
+	
+	// void
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

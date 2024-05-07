@@ -1,0 +1,27 @@
+package com.kh.exceptionEx;
+
+import java.util.*;
+
+/*
+Exception = 예외
+예외는 코드로 처리가능한 에러
+
+
+
+
+
+
+
+
+
+
+
+ */
+public class ExceptionEx {
+	private Scanner sc = new Scanner(System.in);
+	
+	// 메서드 2개 만들고
+	
+	// 메인 메서드
+	
+}

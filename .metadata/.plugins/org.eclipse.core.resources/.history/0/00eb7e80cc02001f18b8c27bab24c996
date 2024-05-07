@@ -1,0 +1,30 @@
+package com.kh.practice.file.controller;
+
+import com.kh.practice.file.model.dao.FileDAO;
+
+public class FileController {
+	// File.java   FileDAO.java
+	FileDAO fd = new FileDAO();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

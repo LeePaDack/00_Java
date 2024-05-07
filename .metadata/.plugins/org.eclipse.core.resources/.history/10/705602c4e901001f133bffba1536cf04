@@ -1,0 +1,12 @@
+package com.kh.IteratorEx;
+
+public class IteratorPre {
+
+	public static void main(String[] args) {
+		// 100, 10, 20, 30, 50, 70
+		// ArrayList<숫자> 숫자들 = new ArrayList<>()'
+		
+		
+	}
+
+}

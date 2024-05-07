@@ -1,0 +1,27 @@
+package com.kh.SocketEx;
+
+import java.io.IOException;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+// 파티 참가자
+public class ClientEx {
+
+	public static void main(String[] args) {
+			//                 localhost = 127.0.0.1 은 내컴퓨터 주소라는 의미
+		try { // 					접속하고자하는 주소    서버의포트번호 
+			Socket 참가자 = new Socket("localhost",        12349);
+		}
+		  catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		
+		
+	}
+	
+}

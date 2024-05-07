@@ -1,0 +1,33 @@
+package com.kh.op;
+
+public class OperatorEx5 {
+
+	public static void main(String[] args) {
+		/*
+		 비교 연산자
+		 == : 서로 같으면 true 
+		 != : 서로 다르면 true
+		 
+		 논리 연산자
+		 && : 두개의 조건이 모두 참일 경우에 참이 됨
+		 || : 둘 중 하나의 조건만 참이여도 참이 됨
+
+		 비교 연산자
+		 > < >= <=
+		 */
+		int num1 = 10;
+		int num2 = 20;
+		
+		// num1 num2 값이 1. 같은지 2. 다른지 3. 어떤 값이 더 큰지
+		// 1. num 1 == num2
+		
+		boolean result1 = num1 == num2; // num1 num2 같다면 참
+		boolean result2 = num1 != num2; // num1 num2 다르면 참
+		boolean result3 = num1 < num2; // num2 가 num1 보다 크다면 참
+		
+		System.out.println("result1 : " + result1);
+		System.out.println("result2 : " + result2);
+		System.out.println("result3 : " + result3);
+	}
+
+}

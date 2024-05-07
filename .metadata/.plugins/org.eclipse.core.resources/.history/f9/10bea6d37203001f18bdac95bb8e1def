@@ -1,0 +1,5 @@
+package com.kh.RunnablePre;
+                // implements Runnable
+public class 러너블연습 {
+
+}

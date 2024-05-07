@@ -1,0 +1,21 @@
+package com.kh.test.Main;
+
+public class Test9 {
+	
+	public static void main(String[] args) {
+		String 요일[] = {"월", "화", "수"};
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+}

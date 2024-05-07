@@ -1,0 +1,20 @@
+package com.kh.imageEx;
+
+public class ImageResizePre {
+	// 원본이미지 pigs.jpg      pigs_cute.jpg 가로 = 400 세로 = 200
+	public static void main(String[] args) {
+		
+		String 원본이미지 = "src/com/kh/imageEx/pigs.jpg";
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+}

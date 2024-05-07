@@ -1,0 +1,11 @@
+package com.kh.propertiesEx;
+/*
+Properties = 속성, 설정, 필히 넣어야하는 값을 작성
+
+
+
+
+ */
+public class PropertiesEx {
+
+}

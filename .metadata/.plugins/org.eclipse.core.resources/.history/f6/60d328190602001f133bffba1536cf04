@@ -1,0 +1,9 @@
+package com.kh.practice.list.music.model.vo;
+
+public class Music {
+
+	public Music(String title, String singer) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

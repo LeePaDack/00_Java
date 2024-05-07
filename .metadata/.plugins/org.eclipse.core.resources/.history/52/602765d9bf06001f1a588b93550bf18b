@@ -1,0 +1,23 @@
+package sup2.model;
+
+public class Student {
+	private String name;
+	private int grade;
+	private int class;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

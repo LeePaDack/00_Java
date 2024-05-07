@@ -1,0 +1,43 @@
+package com.kh.imageEx;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+/*
+이미지를 복사하기 위해서는 원본 이미지 파일 경로와 옮기고 싶은 이미 파일 경로를 설정
+
+FileInputStream  : 파일의 데이터를 읽어오는데 사용
+
+	read() : 데이터를 읽어옴
+
+
+FileOutputStream : 파일의 데이터를 내보내는데 사용
+
+
+
+ */
+public class ImageCopy {
+
+	public static void main(String[] args) {
+		// healing 이를 복사
+		// 힐링이의 사진이 위치하고 있는 장소를 작성
+		// 자바코드에서 폴더 구분을 작성할 때는 / 로 작성
+		// 모든 파일의 실행은 src 로 부터 시작함
+		//               폴더 경로를 모두 쓰고나면 / 한 후 파일 이름 작성
+		String 원본이미지 = "src/com/kh/imageEx/healing.jpg";
+		String 복사이미지 = "src/com/kh/imageEx/healing_cute.jpg";
+		
+		// FileInputStream OutputStream 을 사용해서 읽고 쓰고 하자
+		try {
+			FileInputStream 파일읽기 = new FileInputStream(원본이미지);
+		} catch (FileNotFoundException e) {
+			
+			e.printStackTrace();
+		}
+		
+		
+		
+	}
+	
+	
+}

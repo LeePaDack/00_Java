@@ -1,0 +1,45 @@
+package sup1.model;
+
+public class Score {
+// 필드
+	private int kor;
+	private int eng;
+	private int math;
+	private int total;
+	private double math;
+
+	
+// 메서드
+	// 필수 생성자
+	public Score(int kor, int eng, int math) {
+		this.kor = kor;
+		this.eng = eng;
+		this.math = math;
+	}
+	
+	// void
+	public void result() {
+		int total = kor + eng + math;
+		double avg = total / 3;
+		
+		System.out.println("국어점수 : " + kor + ", 영어점수 : " + eng + ", 수학점수 : " + math);
+		
+		if (avg >= 50) {
+			System.out.println("합격");
+		}
+		else {
+			System.out.println("불합격");
+		}
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

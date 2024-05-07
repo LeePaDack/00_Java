@@ -1,0 +1,19 @@
+package com.kh.exceptionEx;
+/*
+Exception = 예외
+예외는 코드로 처리가능한 에러
+
+
+
+
+
+
+
+
+
+
+
+ */
+public class ExceptionEx {
+
+}

@@ -1,0 +1,22 @@
+package com.kh.variableEx;
+/*
+변수 
+	자료형(기본)
+	  숫자 : byte, short, int   // int 기본값
+	  문자 : char               // '' 사용, 한 글자만 들어갈 수 있음
+	  실수 : float, double	   // double 기본값
+	  참거짓 : boolean  		   // false 기본값
+	자로형(참조)
+	  문자열 : String            // "" 를 사용, 문자를 모두 나열하는 문자열 "" 특수문자 등 모든 것 사용 가능
+	상수형 
+	  final 자료형 상수명 = 값; 
+	  final int_MAX_NUM = 100; (상시적으로 변하지 않는 수, 값 변화  X 이름을 대문자로 표기)
+	열거형
+
+
+
+
+ */
+public class VariableEx {
+
+}

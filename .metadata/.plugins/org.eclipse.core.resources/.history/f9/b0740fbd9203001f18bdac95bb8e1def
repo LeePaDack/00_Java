@@ -1,0 +1,10 @@
+package com.kh.lambdaEx;
+/*
+람다식(Lambda)
+클래스식으로 구분해서 만드는 함수를 하나의 식으로 표현한 것
+
+ */
+
+public class LambdaEx {
+
+}

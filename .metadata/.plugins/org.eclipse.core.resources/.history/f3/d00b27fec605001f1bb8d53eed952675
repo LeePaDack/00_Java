@@ -1,0 +1,20 @@
+package com.kh.addressEx;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+public class AddressEx3 {
+	public static void main(String[] args) {
+		try {
+			InetAddress 주소이름 = InetAddress.getByName("www.google.com");
+			// getByName 은 영어주소와 숫자주소를 한번에 가져옴
+			System.out.println("getByName 으로 구글을 가져온 이름  : " + 주소이름);
+			
+			// getLocalHost를 이용해서 내 집주소를 가져오고 집 주소에 대한 상세 정보 확인
+			InetAddress 내집주소 = InetAddress.getLocalHost();
+			
+		} catch (UnknownHostException e) {
+			e.printStackTrace();
+		}
+	}
+}

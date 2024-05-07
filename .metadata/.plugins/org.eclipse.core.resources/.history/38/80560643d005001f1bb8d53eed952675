@@ -1,0 +1,17 @@
+package com.kh.SocketEx;
+
+// 파티 참가자
+public class ClientEx {
+
+	public static void main(String[] args) {
+		
+		Socket 참가자 = new Socket(   );
+		
+		
+		
+		
+		
+		
+	}
+	
+}

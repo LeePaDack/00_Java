@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kh.SocketEx.SockerEx&apos; to &apos;SocketEx&apos;&#x0D;&#x0A;- Original project: &apos;15_Network&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.SocketEx.SockerEx&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.SocketEx.SocketEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SockerEx&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.SocketEx{SockerEx.java[SockerEx" matchStrategy="1" name="SocketEx" qualified="false" references="true" similarDeclarations="false" stamp="1714356155206" textual="false" version="1.0"/>
+</session>

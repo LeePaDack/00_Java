@@ -1,0 +1,31 @@
+package com.kh.practice.book.view;
+
+import java.util.Scanner;
+
+import com.kh.practice.book.controller.BookController;
+
+public class BookMenu {
+	
+	private Scanner sc = new Scanner(System.in);
+	
+	BookController bc = new BookController();
+	// 기본 생성자
+	public BookMenu() {
+	}
+	
+	public void mainMenu() {
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

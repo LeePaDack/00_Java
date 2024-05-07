@@ -1,0 +1,21 @@
+package com.kh.MapEx;
+/*
+Map : 특정 키를 입력하면 해당되는 값을 얻을 수 있는 Collection 객체
+	키 = key
+	가치 = value
+	
+	key:value 값으로 구성
+
+메서드
+	put(key, value) : 지정된 키와, 지정된 값의 쌍을 추가
+	get(key)        : 지정된 키에 저장된 값을 보여줌
+	containsKey(key): 지정된 키가 존재하는지 확인
+	containsValue(value) : 지정된 값이 존재하는지 확인
+	remove(key) : 지정된 키와 키에 저장된 값을 제거
+
+
+
+ */
+public class MapEx {
+
+}

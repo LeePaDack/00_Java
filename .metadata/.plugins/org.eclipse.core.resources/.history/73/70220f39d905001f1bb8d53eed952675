@@ -1,0 +1,11 @@
+package com.kh.SocketEx;
+
+import java.net.ServerSocket;
+
+public class ClientPre {
+	
+	public static void main(String[] args) {
+		ServerSocket s = new ServerSocket();
+	}
+	
+}

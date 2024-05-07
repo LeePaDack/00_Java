@@ -1,0 +1,45 @@
+package com.kh.exceptionEx;
+
+import java.util.*;
+
+/*
+Exception = 예외
+예외는 코드로 처리가능한 에러
+
+
+
+
+
+
+
+
+
+
+
+ */
+public class ExceptionEx {
+	private Scanner sc = new Scanner(System.in);
+	
+	// 기본 생성자
+	public ExceptionEx() {
+
+	}
+	
+	// 메서드 2개 만들고
+	public void method1() {
+		int 배열[] = {10, 20 ,30 ,40};
+		
+		// for
+		for(int i = 0; i <= 배열.length; i++) {
+			System.out.println(배열[i]);
+		}
+	}
+	
+	// 메인 메서드
+	public static void main(String[] args) {
+		ExceptionEx 예외발생 = new ExceptionEx();
+		예외발생.method1();
+	}
+	
+	
+}

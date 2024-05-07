@@ -1,0 +1,21 @@
+package com.kh.practice.list.music.model.vo;
+
+public class Music {
+// 필드
+	private String title;
+	private String singer;
+	
+// 메서드
+	
+	// 생성자 : 기본
+	public Music() {
+		// TODO Auto-generated constructor stub
+	}
+	public Music(String title, String singer) {
+		
+	}
+	
+	// 생성자 : 필수
+	
+
+}

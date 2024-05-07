@@ -1,0 +1,18 @@
+package com.hk.ThreadEx;
+/*
+Thread(스레드) : 실 
+스레드는 컴퓨터에서 실제로 작업을 수행하는 것을 의미 
+
+두 개 이상의 스레드를 가지는 프로세스를 멀티스레드 라고 함
+
+
+
+
+
+ */
+
+
+
+public class ThreadEx {
+
+}

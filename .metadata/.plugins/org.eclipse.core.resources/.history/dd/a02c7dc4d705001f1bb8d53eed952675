@@ -1,0 +1,15 @@
+package com.kh.SocketEx;
+
+import java.net.ServerSocket;
+
+public class ServerPre {
+	
+	public static void main(String[] args) {
+		ServerSocket s = new ServerSocket(12345);
+		
+		
+		
+		
+	}
+	
+}

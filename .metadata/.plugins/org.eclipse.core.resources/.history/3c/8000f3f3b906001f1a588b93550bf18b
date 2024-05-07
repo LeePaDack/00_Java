@@ -1,0 +1,34 @@
+package sup1.model;
+
+public class Score {
+// 필드
+	int Kor;
+	int Eng;
+	int Math;
+	int total = Kor + Eng + Math;
+	double avg = (Kor + Eng + Math) / 3;
+
+	
+// 메서드
+	// 필수 생성자
+	public Score(int kor, int eng, int math, int total, double avg) {
+		this.Kor = kor;
+		this.Eng = eng;
+		this.Math = math;
+		this.total = total;
+		this.avg = avg;
+	}
+	
+	// void
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

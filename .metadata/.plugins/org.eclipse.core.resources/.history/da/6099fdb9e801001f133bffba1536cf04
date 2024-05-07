@@ -1,0 +1,18 @@
+package com.kh.IteratorEx;
+/*
+Collection(List, Set, Map) 반복하는데 사용
+Enumeration : 더이상 권장 X  Vector 와 같은 오래된 버전 클래스에서만 사용됨
+
+Iterator : 반복하는데 사용(순차적으로 회전)
+		   읽기만 가능, 추가하거나 삭제할 수 없음
+		   
+ListIterator : Iterator 업그레이드 버전 
+ 				List(Vector, ArrayList, LinkedList) 컬렉션에서만 사용
+ 				양방향으로 순차적으로 회전할 수 있음
+ 				양방향으로 순회 = 앞뒤로 이동 가능 
+ 				
+ 				
+ */
+public class IteratorEx {
+
+}

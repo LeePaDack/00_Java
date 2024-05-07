@@ -1,0 +1,28 @@
+package sup2.model;
+
+public class Student {
+// 필드
+	private String name;
+	private int grade;
+	private int clss;
+	private int number;
+	private char gender;
+	private double score;
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

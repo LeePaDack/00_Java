@@ -1,0 +1,15 @@
+package com.kh.RunnableEx;
+
+
+/* 
+Thread 대신 여러개를 가져오거나 상속받을 때 사용하는 인터페이스
+
+
+
+
+
+
+*/
+public class RunnalbeEx {
+
+}

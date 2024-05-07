@@ -1,0 +1,17 @@
+package com.kh.practice.score.model.dao;
+
+public class ScoreDAO {
+	private final String FILE_PATH = "score.txt";
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package com.kh.imageEx;
+/*
+이미지를 복사하기 위해서는 원본 이미지 파일 경로와 옮기고 싶은 이미 파일 경로를 설정
+
+FileInPutStream  : 파일의 데이터를 읽어오는데 사용
+FileOutPutStream : 파일의 데이터를 내보내는데 사용
+
+
+
+ */
+public class ImageCopy {
+
+}
